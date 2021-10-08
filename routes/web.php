@@ -32,3 +32,7 @@ Route::get('/campeonatos', function () {
 Route::get('/login', function () {
     return view('login');
 });
+
+Route::get('/cadastrar', function () {
+    return view('cadastrar');
+});

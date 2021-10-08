@@ -18,7 +18,7 @@
             <div class="col-sm-4"></div>
             <div class="col-sm-4"></br>
                     <div class="card">
-                        <h5 class="card-header center">Login</h5>
+                        <h5 class="card-header center">Cadastre-se</h5>
                         <div class="card-body">
                             <h5 class="card-title">Usuario</h5>
                             <input type="email" class="form-control" id="" placeholder="Email"></br>
@@ -26,7 +26,7 @@
                             <input type="password" class="form-control" id="" placeholder="Senha"></br>
 
                             <div class="d-grid gap-2">
-                                <button class="btn btn-primary" type="button">Acessar</button>
+                                <button class="btn btn-primary" type="button">Cadastrar</button>
                             </div>
                         </div>
                     </div></br>
