@@ -19,9 +19,6 @@
                         <a class="nav-link nav-bar" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link nav-bar" href="#">Notícias</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link nav-bar" href="#">Ranking</a>
                     </li>
                     <li class="nav-item">
@@ -44,32 +41,37 @@
                 <tr>
                 <th scope="col">Colocação</th>
                 <th scope="col">Time</th>
-                <th scope="col">Vitórias</th>
-                <th scope="col">Empates</th>
-                <th scope="col">Derrotas</th>
+                <th scope="col">Jogadores</th>
+                
                 </tr>
             </thead>
             <tbody>
                 <tr>
                 <th scope="row">1</th>
                     <td>Team Liquid</td>
-                    <td>4</td>
-                    <td>0</td>
-                    <td>0</td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/BVGgD5hJMifm1iVGXFwbws.png?ixlib=java-2.1.0&w=400&s=2963f9e90b71342b6b00f401c7c4acff" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/BVGgD5hJMifm1iVGXFwbws.png?ixlib=java-2.1.0&w=400&s=2963f9e90b71342b6b00f401c7c4acff" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/BVGgD5hJMifm1iVGXFwbws.png?ixlib=java-2.1.0&w=400&s=2963f9e90b71342b6b00f401c7c4acff" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/BVGgD5hJMifm1iVGXFwbws.png?ixlib=java-2.1.0&w=400&s=2963f9e90b71342b6b00f401c7c4acff" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/BVGgD5hJMifm1iVGXFwbws.png?ixlib=java-2.1.0&w=400&s=2963f9e90b71342b6b00f401c7c4acff" class="imagemRank"></td>
                 </tr>
                 <tr>
                 <th scope="row">2</th>
                     <td>Natus Vincere</td>
-                    <td>3</td>
-                    <td>1</td>
-                    <td>0</td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/RGemStZHTfFk8AAjkJrbTR.png?ixlib=java-2.1.0&w=400&s=59b0a61f6f217bc6c1dd54bd4e0aa837" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/RGemStZHTfFk8AAjkJrbTR.png?ixlib=java-2.1.0&w=400&s=59b0a61f6f217bc6c1dd54bd4e0aa837" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/RGemStZHTfFk8AAjkJrbTR.png?ixlib=java-2.1.0&w=400&s=59b0a61f6f217bc6c1dd54bd4e0aa837" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/RGemStZHTfFk8AAjkJrbTR.png?ixlib=java-2.1.0&w=400&s=59b0a61f6f217bc6c1dd54bd4e0aa837" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/RGemStZHTfFk8AAjkJrbTR.png?ixlib=java-2.1.0&w=400&s=59b0a61f6f217bc6c1dd54bd4e0aa837" class="imagemRank"></td>
                 </tr>
                 <tr>
                 <th scope="row">3</th>
                     <td>Gambit</td>
-                    <td>2</td>
-                    <td>0</td>
-                    <td>2</td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?ixlib=java-2.1.0&w=400&s=c6071374cfeb9361d04bbd36ffa484bf" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?ixlib=java-2.1.0&w=400&s=c6071374cfeb9361d04bbd36ffa484bf" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?ixlib=java-2.1.0&w=400&s=c6071374cfeb9361d04bbd36ffa484bf" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?ixlib=java-2.1.0&w=400&s=c6071374cfeb9361d04bbd36ffa484bf" class="imagemRank"></td>
+                    <td><img src="https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?ixlib=java-2.1.0&w=400&s=c6071374cfeb9361d04bbd36ffa484bf" class="imagemRank"></td>
                 </tr>
             </tbody>
             </table>
@@ -85,7 +87,7 @@
 
 <style type="text/css">
     body {
-        background-color: #363636;
+        background-image: url("https://1.bp.blogspot.com/-GDb1dVVt_cg/YOtCLMshoeI/AAAAAAABDds/o0fl8_fOM0YcM-hbOAtSEhuD_xKZwWtGwCLcBGAsYHQ/s1920/csgo_13-wallpaper-1920x1080.jpg");
     }
 
     p {
@@ -104,6 +106,12 @@
     }
 
     tr {
+        text-align: center;
         color: white;
+    }
+
+    .imagemRank {
+        width: 40px;
+        height: 40px;
     }
 </style>

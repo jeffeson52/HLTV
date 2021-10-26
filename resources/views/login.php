@@ -43,7 +43,7 @@
 
 <style type="text/css">
     body {
-        background-color: #363636;
+        background-image: url("https://1.bp.blogspot.com/-GDb1dVVt_cg/YOtCLMshoeI/AAAAAAABDds/o0fl8_fOM0YcM-hbOAtSEhuD_xKZwWtGwCLcBGAsYHQ/s1920/csgo_13-wallpaper-1920x1080.jpg");
     }
 
     p {
